@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CRUD_project/.idea/CRUD_project.iml" filepath="$PROJECT_DIR$/../CRUD_project/.idea/CRUD_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Classes/.idea/Classes.iml" filepath="$PROJECT_DIR$/../Classes/.idea/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Files/.idea/Files.iml" filepath="$PROJECT_DIR$/../Files/.idea/Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../package_installment/.idea/package_installment.iml" filepath="$PROJECT_DIR$/../package_installment/.idea/package_installment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/.idea/pythonProject.iml" />
+    </modules>
+  </component>
+</project>
